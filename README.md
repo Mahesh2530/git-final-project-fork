@@ -11,3 +11,4 @@ bash simple-interest.sh
 ## License
 
 This project is licensed under the Apache 2.0 License.
+This is a fixed typo line added from bug-fix-typo branch.
