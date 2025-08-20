@@ -12,3 +12,5 @@ bash simple-interest.sh
 
 This project is licensed under the Apache 2.0 License.
 This is a fixed typo line added from bug-fix-typo branch.
+# Simple Interest Calculator
+(Edited by Mahesh2530 for demo PR)
